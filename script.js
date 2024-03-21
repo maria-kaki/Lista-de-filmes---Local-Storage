@@ -107,6 +107,7 @@ btn1.addEventListener('click',()=>{
 })
 /*
 Função que é executada quando o botão de favorito é clicado
+asdjla
 */
 
 const favoritoClicado = (eventoDeClique) => {
